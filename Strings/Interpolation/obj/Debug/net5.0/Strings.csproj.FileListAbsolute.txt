@@ -1,0 +1,16 @@
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.deps.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.runtimeconfig.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.runtimeconfig.dev.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/bin/Debug/net5.0/Strings.pdb
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.csproj.AssemblyReference.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.AssemblyInfoInputs.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.AssemblyInfo.cs
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.csproj.CoreCompileInputs.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/refint/Strings.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.pdb
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/Strings.genruntimeconfig.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/obj/Debug/net5.0/ref/Strings.dll

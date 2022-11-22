@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C99y9HmsQjU6KwuTEF+eKPmVFxgT9NwE/t2/z/V4bMVdQlzCc15RIo194dmpKEbDBMuaJfyb9zjVYnV6ELMeog==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Interpolation/Strings.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

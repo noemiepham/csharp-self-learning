@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PwDq6vtKxrNKWk55vubq//Pl+Qs6n0hvAU5WLnzd/3srkP+1pk7KdqYuKXQA2fHS/4wS7DILL4N/WJXkaTgS5g==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Program Flow/Exceptions/Exceptions.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAdj/jHo+iyDsCtiF2DTl7Sfdn/dCkDdchkFSVowgz/ZpzE7KRuWR1Mfo89pY79djOZHHNZ8ASDx3WJGxa5GlQ==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Program Flow/WhileLoops/WhileLoops.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

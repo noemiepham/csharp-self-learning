@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vt0gmUSyIh7t3dDX3aSbHiSda381fvYxs+lrAOGYZk4RnR09Jz6IX+ZE1XbM7yW0GKnNxpe9JIsn0KFIy0mc9w==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Program Flow/Conditional-switch/ConditionalOps.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

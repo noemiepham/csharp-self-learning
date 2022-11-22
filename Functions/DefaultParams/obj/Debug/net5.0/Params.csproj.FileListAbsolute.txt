@@ -1,0 +1,16 @@
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.deps.json
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.runtimeconfig.json
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.runtimeconfig.dev.json
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.dll
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.pdb
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.csproj.AssemblyReference.cache
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.AssemblyInfoInputs.cache
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.AssemblyInfo.cs
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.csproj.CoreCompileInputs.cache
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.dll
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/refint/Params.dll
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.pdb
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.genruntimeconfig.cache
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/obj/Debug/net5.0/ref/Params.dll

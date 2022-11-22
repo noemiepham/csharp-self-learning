@@ -1,0 +1,16 @@
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.deps.json
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.json
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.dev.json
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.dll
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.pdb
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.AssemblyReference.cache
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfoInputs.cache
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfo.cs
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.CoreCompileInputs.cache
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.dll
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/refint/RefAndOut.dll
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.pdb
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.genruntimeconfig.cache
+/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/RefAndOutParams/obj/Debug/net5.0/ref/RefAndOut.dll

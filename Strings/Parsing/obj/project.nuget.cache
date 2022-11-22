@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R7i7Oi3UimWV/Fuq3L2+BFvYdHmC1MH/DBRq0oBC4R/b2gfCPJC+aJVMXvSJBOSY5JQ+tfllj4C7O+2pCeaiBQ==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Parsing/Parsing.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/bin/Debug/net5.0/Builder
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.deps.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/bin/Debug/net5.0/Builder.pdb
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.csproj.AssemblyReference.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/refint/Builder.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.pdb
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Builder/obj/Debug/net5.0/ref/Builder.dll

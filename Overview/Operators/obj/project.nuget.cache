@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgrB8me63aVVr30ob1vkXRC1pUy7xUjIeXV04mHVaoWc7uMiBuVNLIFJ3qbiYGzeaPCyAyoJHAK6LyJjyZYZmA==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/Operators/Operators.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

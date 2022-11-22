@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7Vfc3yQwX/lIX1C1POEQlDJOFhC9m0c6MwZo6oEOd3ZNHq56jDoeO/8g64gejXstyBerbJPyTp/CA4xdH1aBA==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/VarsAndData.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

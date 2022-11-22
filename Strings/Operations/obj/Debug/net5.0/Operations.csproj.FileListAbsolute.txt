@@ -1,0 +1,16 @@
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/Operations.csproj.AssemblyReference.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/Operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/Operations.AssemblyInfoInputs.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/Operations.AssemblyInfo.cs
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/Operations.csproj.CoreCompileInputs.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/bin/Debug/net5.0/Operations
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/bin/Debug/net5.0/Operations.deps.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/bin/Debug/net5.0/Operations.runtimeconfig.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/bin/Debug/net5.0/Operations.runtimeconfig.dev.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/bin/Debug/net5.0/Operations.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/bin/Debug/net5.0/Operations.pdb
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/Operations.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/refint/Operations.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/Operations.pdb
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/Operations.genruntimeconfig.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Strings/Operations/obj/Debug/net5.0/ref/Operations.dll

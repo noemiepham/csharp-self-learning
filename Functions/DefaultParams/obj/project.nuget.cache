@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OGJ5sp/l9zy6+oPZAPs0qgfi+QtW4rue2o3+D1m1kXJWFQnoU7jCU+LQKYKTVXVyIk6VPwJo8esnuHkVw0gLbw==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/DefaultParams/Params.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

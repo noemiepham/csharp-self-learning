@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGqtkZoho2fWoAgmyV8vX0ozL0TOpQmUmDMIK+w5dHAKLeubEG3vFX2eWbU1C7LRvNEiIxtsKsZq2FLSjye7ZA==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/Basics/Basics.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

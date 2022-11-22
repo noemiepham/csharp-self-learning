@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFO3VfChkGzwsOWjUmMXNweOAO+EtwUbFXA+kLVM14z6adVZWiq/XNpFphCssESWwpl2dbkJDAPvRPwv4z7Vqw==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/Comments/Comments.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

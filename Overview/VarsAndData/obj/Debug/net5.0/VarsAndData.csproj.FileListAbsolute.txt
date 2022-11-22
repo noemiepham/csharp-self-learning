@@ -1,0 +1,16 @@
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.deps.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.runtimeconfig.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.runtimeconfig.dev.json
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.pdb
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.csproj.AssemblyReference.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.AssemblyInfo.cs
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/refint/VarsAndData.dll
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.pdb
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.genruntimeconfig.cache
+/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Overview/VarsAndData/obj/Debug/net5.0/ref/VarsAndData.dll

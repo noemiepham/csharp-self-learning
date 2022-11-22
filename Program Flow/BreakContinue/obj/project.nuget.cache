@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NBOiRi7RoOcxCKrDQrzQCtcrZsZG8jrWj5vd0W3SpSHT2wol+mwiNQLJOcyJyUzq07kAXDA0UaNwIzl/ddAsQ==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/Ex_Files_Learning_C_Sharp/Exercise-Files/Start/Program Flow/BreakContinue/BreakContinue.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
