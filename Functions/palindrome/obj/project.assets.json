@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/ProgChallenge/ProgChallenge.csproj",
+      "projectUniqueName": "/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/ProgChallenge.csproj",
       "projectName": "ProgChallenge",
-      "projectPath": "/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/ProgChallenge/ProgChallenge.csproj",
+      "projectPath": "/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/ProgChallenge.csproj",
       "packagesPath": "/Users/tieuquy/.nuget/packages/",
-      "outputPath": "/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/ProgChallenge/obj/",
+      "outputPath": "/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tieuquy/.nuget/NuGet/NuGet.Config"

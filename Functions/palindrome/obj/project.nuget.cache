@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xsBZwzRan1F/+FQhWMHg07yfI1zzrY9HQt70vv8F9G4mlH3L90j/EzUX5h1J118jijx7cwLp74XaBahAPbXaYg==",
+  "dgSpecHash": "NFOx/TVqQQimzdw3Ew9rqESIl++tVf/X5QkSMOwa5AHDzX90poKviw3/DXS5utUrY5yF8o1tKbRD7dvK8F7zNw==",
   "success": true,
-  "projectFilePath": "/Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/ProgChallenge/ProgChallenge.csproj",
+  "projectFilePath": "/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/ProgChallenge.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

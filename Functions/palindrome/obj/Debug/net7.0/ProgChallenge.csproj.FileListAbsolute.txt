@@ -3,3 +3,8 @@
 /Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/ProgChallenge/obj/Debug/net7.0/ProgChallenge.AssemblyInfoInputs.cache
 /Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/ProgChallenge/obj/Debug/net7.0/ProgChallenge.AssemblyInfo.cs
 /Users/tieuquy/Desktop/c#/Exercise-Files/Start/Functions/ProgChallenge/obj/Debug/net7.0/ProgChallenge.csproj.CoreCompileInputs.cache
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.csproj.AssemblyReference.cache
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.AssemblyInfoInputs.cache
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.AssemblyInfo.cs
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.csproj.CoreCompileInputs.cache
