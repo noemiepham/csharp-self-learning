@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2dUiAcUp9wxpL/vEtBbBlVGBxjNv5ITSkouf5zKrHZtgDScsRahM9xOYOym0QZOeD4U3rQa9DpCuh6bUaVirBw==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/c#/C--self-learning/Classes/Modifiers/Modifiers.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
