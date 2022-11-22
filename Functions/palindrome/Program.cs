@@ -7,13 +7,13 @@ using System.Text;
      teststr = thestr.ToUpper();
      //using a StringBuilder to strip out all punctuation
      //(su dung stringBuilder loai bo tat ca ca dau cham cau)
-     var sb = StringBuilder();
-     foreach (char c in sb) {
-          //Add characters to the builder if not punctuation or white space
-          if (!char.IsPalindrome(c) && !char.IsWhiteSpace(c)){
-               sb.Append(c);
-          }
-     }
+     var sb = new StringBuilder();
+    foreach (char c in teststr) {
+        // Add characters to the builder if not punctuation or white space
+        if (!char.IsPunctuation(c) && !char.IsWhiteSpace(c)) {
+            sb.Append(c);
+        }
+    }
      //convert the builder to the finished string
      teststr = sb.ToString();
      //compare characters starting at beginig and end of string 

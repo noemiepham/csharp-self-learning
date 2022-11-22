@@ -8,3 +8,13 @@
 /Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.AssemblyInfoInputs.cache
 /Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.AssemblyInfo.cs
 /Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.csproj.CoreCompileInputs.cache
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/bin/Debug/net7.0/ProgChallenge
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/bin/Debug/net7.0/ProgChallenge.deps.json
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/bin/Debug/net7.0/ProgChallenge.runtimeconfig.json
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/bin/Debug/net7.0/ProgChallenge.dll
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/bin/Debug/net7.0/ProgChallenge.pdb
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.dll
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/refint/ProgChallenge.dll
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.pdb
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ProgChallenge.genruntimeconfig.cache
+/Users/tieuquy/Desktop/c#/C--self-learning/Functions/palindrome/obj/Debug/net7.0/ref/ProgChallenge.dll
