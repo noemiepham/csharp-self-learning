@@ -1,2 +1,6 @@
-# C--self-learning
-This repository i save all my porjet self-learning the c#
+# Learning C#
+1.Overview of C#
+2.C# program Flow
+3.C# string
+4.C#Functions
+5.Object-oriented C#
