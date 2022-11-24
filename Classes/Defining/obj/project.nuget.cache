@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "48OEo/hpZxKwCcSToi6nF22Fm6Se+E1hSzTgStKsa9OoreB9we9slQiJqRonHu2AJKedqr+DfhkNzQJCIou0BQ==",
+  "success": true,
+  "projectFilePath": "/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/Defining.csproj",
+  "expectedPackageFiles": [
+    "/Users/tieuquy/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

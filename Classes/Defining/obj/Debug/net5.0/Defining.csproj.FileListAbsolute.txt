@@ -1,0 +1,16 @@
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/bin/Debug/net5.0/Defining
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/bin/Debug/net5.0/Defining.deps.json
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/bin/Debug/net5.0/Defining.runtimeconfig.json
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/bin/Debug/net5.0/Defining.runtimeconfig.dev.json
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/bin/Debug/net5.0/Defining.dll
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/bin/Debug/net5.0/Defining.pdb
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/Defining.csproj.AssemblyReference.cache
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/Defining.AssemblyInfoInputs.cache
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/Defining.AssemblyInfo.cs
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/Defining.csproj.CoreCompileInputs.cache
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/Defining.dll
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/refint/Defining.dll
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/Defining.pdb
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/Defining.genruntimeconfig.cache
+/Users/tieuquy/Desktop/c#/csharp-self-learning/Classes/Defining/obj/Debug/net5.0/ref/Defining.dll
