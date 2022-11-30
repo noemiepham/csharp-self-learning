@@ -1,0 +1,34 @@
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Prestige.BizTests.dll
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Prestige.BizTests.pdb
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Prestige.Biz.exe
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Prestige.Biz.pdb
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Prestige.Biz.exe.config
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\obj\Debug\Prestige.BizTests.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.CopyComplete
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\obj\Debug\Prestige.BizTests.dll
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.BizTests\obj\Debug\Prestige.BizTests.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Prestige.BizTests.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Prestige.BizTests.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Prestige.Biz.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Prestige.Biz.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Prestige.Biz.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\obj\Debug\Prestige.BizTests.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.CopyComplete
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\obj\Debug\Prestige.BizTests.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\CH02\02_08\end\Prestige.BizTests\obj\Debug\Prestige.BizTests.pdb

@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.Common\bin\Debug\Prestige.Common.dll
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.Common\bin\Debug\Prestige.Common.pdb
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.Common\obj\Debug\Prestige.Common.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.Common\obj\Debug\Prestige.Common.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.Common\obj\Debug\Prestige.Common.dll
+C:\Users\Reynald Adolphe\source\repos\BestPractices\Prestige.Common\obj\Debug\Prestige.Common.pdb
